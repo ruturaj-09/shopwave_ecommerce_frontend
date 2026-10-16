@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:8080";
+export const API_URL = "https://shopwave-ecommerce-backend-psi.vercel.app";
 export const DEPLOYED_URL = "https://zosh-bazzar-backend.onrender.com"
 // change api
 
